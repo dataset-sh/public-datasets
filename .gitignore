@@ -1,0 +1,4 @@
+*.dsh
+__pycache__
+tmp
+dist

@@ -1,0 +1,9 @@
+{
+    "name": "language/names-by-country",
+    "targets": {
+        "default": {
+            "name": "language/names-by-country",
+            "type": "local"
+        }
+    }
+}

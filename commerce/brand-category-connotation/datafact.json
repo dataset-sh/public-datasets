@@ -1,0 +1,9 @@
+{
+    "name": "commerce/brand-category-connotation",
+    "targets": {
+        "default": {
+            "name": "commerce/brand-category-connotation",
+            "type": "local"
+        }
+    }
+}

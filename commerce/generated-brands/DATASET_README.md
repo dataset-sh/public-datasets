@@ -1,0 +1,3 @@
+# Hello World Dataset
+
+This dataset provides a simple collection of "Hello World" translations in various languages. It serves as a practical example for demonstrating the functionalities of the dataset.sh library.

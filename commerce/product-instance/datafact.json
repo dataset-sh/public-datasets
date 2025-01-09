@@ -1,0 +1,9 @@
+{
+    "name": "commerce/product-instance",
+    "targets": {
+        "default": {
+            "name": "commerce/product-instance",
+            "type": "local"
+        }
+    }
+}

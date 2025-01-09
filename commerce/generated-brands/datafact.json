@@ -1,0 +1,9 @@
+{
+    "name": "commerce/generated-brands",
+    "targets": {
+        "default": {
+            "name": "commerce/generated-brands",
+            "type": "local"
+        }
+    }
+}

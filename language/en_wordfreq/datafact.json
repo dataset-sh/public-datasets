@@ -1,0 +1,9 @@
+{
+    "name": "language/en_wordfreq",
+    "targets": {
+        "default": {
+            "name": "language/en_wordfreq",
+            "type": "local"
+        }
+    }
+}

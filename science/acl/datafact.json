@@ -1,0 +1,9 @@
+{
+    "name": "science/acl",
+    "targets": {
+        "default": {
+            "name": "science/acl",
+            "type": "local"
+        }
+    }
+}

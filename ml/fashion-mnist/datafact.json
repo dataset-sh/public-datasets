@@ -1,0 +1,9 @@
+{
+    "name": "ml/fashion-mnist",
+    "targets": {
+        "default": {
+            "name": "ml/fashion-mnist",
+            "type": "local"
+        }
+    }
+}

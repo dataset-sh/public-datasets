@@ -1,0 +1,9 @@
+{
+    "name": "commerce/product-category",
+    "targets": {
+        "default": {
+            "name": "commerce/product-category",
+            "type": "local"
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "name": "science/acl-datasets",
+    "targets": {
+        "default": {
+            "name": "science/acl-datasets",
+            "type": "local"
+        }
+    }
+}
